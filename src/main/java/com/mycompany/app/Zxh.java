@@ -7,4 +7,5 @@ public class Zxh {
     private  int age;
     private String name;
     private String sex;
+    private int height;
 }
