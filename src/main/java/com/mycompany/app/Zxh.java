@@ -8,4 +8,6 @@ public class Zxh {
     private String name;
     private String sex;
     private int height;
+    private int max;
+    private int min;
 }
